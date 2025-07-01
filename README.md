@@ -13,7 +13,7 @@ I love turning ideas into reality using code! Here’s what I’m rocking right 
 - **Languages**: HTML 📄, CSS 🎨, JavaScript 💡, SQL 🗂️, Java ☕
 - **Tools & Platforms**: Git & GitHub 🧠, VS Code 🖥️, MySQL 🛢️
 - **Hobbies**: Coding challenges, building small web apps, learning new frameworks 🔧
-- **Currently Learning**: [Insert exciting new tech here — e.g., React, Python, AI/ML]
+- **Currently Learning**: [React, Python, AI/ML]
 
 ---
 
